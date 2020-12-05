@@ -1,7 +1,7 @@
 package main
 
 import (
-	"srectl/cmd"
+	"github.com/pliniogsnascimento/srectl/cmd"
 )
 
 func main() {
